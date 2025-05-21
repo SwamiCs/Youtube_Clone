@@ -15,7 +15,7 @@ Video Details: Display video titles, descriptions, and thumbnails fetched from t
 API Integration: Leverages Google's YouTube Data API for real-time video data.
 
 **Tech Stack**
---------------------------------------
+-------------------------------------
 Frontend: React (v18.2.0)
 
 Styling: Custom CSS
